@@ -1,2 +1,1 @@
-#!/bin/bash
-My first project
+Shell basics readme
